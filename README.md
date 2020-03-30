@@ -7,7 +7,7 @@
   * keras
   * seaborn
   * jupyter
-  * jupyterlab
+  * jupyterlab (password: jupyter)
   * scikit-learn
   * imblearn
 * Also provides sample `docker-compose.yml` files.
